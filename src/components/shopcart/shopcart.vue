@@ -10,7 +10,7 @@
                    
                 </div>
                  <div class="price">{{deliveryPrice}}元</div>
-                 <div class="desc">另需配送费{{deliveryPrice}}</div>
+                 <div class="desc">另需配送费111{{deliveryPrice}}</div>
             </div>
             <div class="content-right">
                 <div class="pay">￥{{minPrice}}</div>
